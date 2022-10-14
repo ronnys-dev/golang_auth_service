@@ -1,4 +1,4 @@
-# Golanf JWT Authontication Service
+# Golang JWT Authentication Service
 
 ## Local start
 
